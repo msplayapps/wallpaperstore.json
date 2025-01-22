@@ -39,43 +39,43 @@
 	 {
 		"name": "NA01",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN01.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA01.jpg",
 		"collections": "Nature"
 	},
 	 	    
 
  {
-		"name": "NA01",
+		"name": "NA02",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN02.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA02.jpg",
 		"collections": "Nature"
 	},
 	 	
  {
 		"name": "NA03",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN03.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA03.jpg",
 		"collections": "Nature"
 	},
 	 	
  {
 		"name": "NA04",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN04.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA04.jpg",
 		"collections": "Nature"
 	},
 	 	
  {
 		"name": "NA05",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN05.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA05.jpg",
 		"collections": "Nature"
 	},
 	 	
 	 {
 		"name": "NA06",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN01.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA06.jpg",
 		"collections": "Nature"
 	},
 	 	    
@@ -83,28 +83,28 @@
  {
 		"name": "NA07",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN02.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA07.jpg",
 		"collections": "Nature"
 	},
 	 	
  {
 		"name": "NA08",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN03.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA08.jpg",
 		"collections": "Nature"
 	},
 	 	
  {
 		"name": "NA09",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN04.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA09.jpg",
 		"collections": "Nature"
 	},
 	 	
  {
 		"name": "NA10",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/MN05.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NA10.jpg",
 		"collections": "Nature"
 	},
 	 	
@@ -112,87 +112,92 @@
 {
 		"name": "AB01",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN02.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB01.jpg",
+		"collections": "Abstract"
+	},
+	 	
+ {
+		"name": "AB02",
+		"author": "makescreens",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB02.jpg",
 		"collections": "Abstract"
 	},
 	 	
  {
 		"name": "AB03",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN03.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB03.jpg",
 		"collections": "Abstract"
 	},
 	 	
  {
 		"name": "AB04",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN04.jpg",
-		"collections": "Abstract"
-	},
-	 	
- {
-		"name": "AB05",
-		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN05.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB04.jpg",
 		"collections": "Abstract"
 	},
 	 	
 	 {
-		"name": "AB06",
+		"name": "AB05",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN01.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB05.jpg",
 		"collections": "Abstract"
 	},
 	 	    
 
  {
+		"name": "AB06",
+		"author": "makescreens",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB06.jpg",
+		"collections": "Abstract"
+	},
+	 	
+ {
 		"name": "AB07",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN02.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB07.jpg",
 		"collections": "Abstract"
 	},
 	 	
  {
 		"name": "AB08",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN03.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB08.jpg",
 		"collections": "Abstract"
 	},
 	 	
  {
 		"name": "AB09",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN04.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB09.jpg",
 		"collections": "Abstract"
 	},
 	 	
  {
 		"name": "AB10",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN05.jpg",
-		"collections": "Abstract"
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB10.jpg",
+		"collections": "Minimal"
 	},
 	 	
  {
 		"name": "AB11",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN03.jpg",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB11.jpg",
+		"collections": "Abstract"
 	},
 	 	
  {
 		"name": "AB12",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN04.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB12.jpg",
 		"collections": "Abstract"
 	},
 	 	
- {
 		"name": "AB13",
 		"author": "makescreens",
-		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/MN05.jpg",
+		"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Abstract/AB13.jpg",
 		"collections": "Abstract"
 	}
 	 	
-
 ]
