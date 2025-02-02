@@ -223,7 +223,103 @@
 "collections": "Minimal"
 },
 
-{ "_comment4": "Minimal Wallpapers End" }
+
+{ "_comment4": "Minimal Wallpapers End" },
+
+
+{ "_comment5": "Scenary Wallpapers Start" },
+
+{
+"name": "SC01",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC01.png",
+"collections": "Scenary"
+},
+{
+"name": "SC02",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC02.png",
+"collections": "Scenary"
+},
+{
+"name": "SC03",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC03.png",
+"collections": "Scenary"
+},
+{
+"name": "SC04",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC04.png",
+"collections": "Scenary"
+},
+{
+"name": "SC05",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC05.png",
+"collections": "Scenary"
+},
+{
+"name": "SC06",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC06.png",
+"collections": "Scenary"
+},
+{
+"name": "SC07",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC07.png",
+"collections": "Scenary"
+},
+{
+"name": "SC08",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC08.png",
+"collections": "Scenary"
+},
+{
+"name": "SC09",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC09.png",
+"collections": "Scenary"
+},
+{
+"name": "SC10",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC10.png",
+"collections": "Scenary"
+},
+{
+"name": "SC11",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC11.png",
+"collections": "Scenary"
+},
+{
+"name": "SC12",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC12.png",
+"collections": "Scenary"
+},
+{
+"name": "SC13",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC13.png",
+"collections": "Scenary"
+},
+{
+"name": "SC14",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC14.png",
+"collections": "Scenary"
+},
+{
+"name": "SC15",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC15.png",
+"collections": "Scenary"
+},
+{ "_comment5": "Scenary Wallpapers Start" }
 
 
 ]
