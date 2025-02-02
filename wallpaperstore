@@ -319,7 +319,74 @@
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC15.png",
 "collections": "Scenary"
 },
-{ "_comment5": "Scenary Wallpapers Start" }
+{ "_comment5": "Scenary Wallpapers Start" },
 
 
+
+{ "_comment6": "Floral Wallpapers Start" },
+
+{
+"name": "FL01",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL01.png",
+"collections": "Floral"
+},
+{
+"name": "FL02",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL02.png",
+"collections": "Floral"
+},
+{
+"name": "FL03",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL03.png",
+"collections": "Floral"
+},
+{
+"name": "FL04",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL04.png",
+"collections": "Floral"
+},
+{
+"name": "FL05",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL05.png",
+"collections": "Floral"
+},
+{
+"name": "FL06",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL06.png",
+"collections": "Floral"
+},
+{
+"name": "FL07",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL07.png",
+"collections": "Floral"
+},
+{
+"name": "FL08",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL08.png",
+"collections": "Floral"
+},
+{
+"name": "FL09",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL09.png",
+"collections": "Floral"
+},
+{
+"name": "FL10",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL10.png",
+"collections": "Floral"
+},
+
+
+
+{ "_comment6": "Floral Wallpapers End" }
 ]
