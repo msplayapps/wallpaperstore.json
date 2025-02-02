@@ -1,4 +1,7 @@
-[	
+[
+
+{ "_comment1": "Illustration Wallpapers Start" },
+
 {
 "name": "IL01",
 "author": "makescreens",
@@ -118,5 +121,109 @@
 "author": "makescreens",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL20.png",
 "collections": "Illustrations"
-}
+},
+
+
+
+{ "_comment2": "Illustration Wallpapers End" },
+
+
+
+{ "_comment3": "Minimal Wallpapers Start" },
+
+
+{
+"name": "MN01",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN01.png",
+"collections": "Minimal"
+},
+{
+"name": "MN02",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN02.png",
+"collections": "Minimal"
+},
+{
+"name": "MN03",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN03.png",
+"collections": "Minimal"
+},
+{
+"name": "MN04",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN04.png",
+"collections": "Minimal"
+},
+{
+"name": "MN05",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN05.png",
+"collections": "Minimal"
+},
+{
+"name": "MN06",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN06.png",
+"collections": "Minimal"
+},
+{
+"name": "MN07",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN07.png",
+"collections": "Minimal"
+},
+{
+"name": "MN08",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN08.png",
+"collections": "Minimal"
+},
+{
+"name": "MN09",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN09.png",
+"collections": "Minimal"
+},
+{
+"name": "MN10",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN10.png",
+"collections": "Minimal"
+},
+{
+"name": "MN11",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN11.png",
+"collections": "Minimal"
+},
+{
+"name": "MN12",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN12.png",
+"collections": "Minimal"
+},
+{
+"name": "MN13",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN13.png",
+"collections": "Minimal"
+},
+{
+"name": "MN14",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN14.png",
+"collections": "Minimal"
+},
+{
+"name": "MN15",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN15.png",
+"collections": "Minimal"
+},
+
+{ "_comment4": "Minimal Wallpapers End" }
+
+
 ]
