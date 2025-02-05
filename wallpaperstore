@@ -222,6 +222,96 @@
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN15.png",
 "collections": "Minimal"
 },
+{
+"name": "MN16",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN16.png",
+"collections": "Minimal"
+},
+{
+"name": "MN17",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN17.png",
+"collections": "Minimal"
+},
+{
+"name": "MN18",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN18.png",
+"collections": "Minimal"
+},
+{
+"name": "MN19",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN19.png",
+"collections": "Minimal"
+},
+{
+"name": "MN20",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN20.png",
+"collections": "Minimal"
+},
+{
+"name": "MN21",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN21.png",
+"collections": "Minimal"
+},
+{
+"name": "MN22",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN22.png",
+"collections": "Minimal"
+},
+{
+"name": "MN23",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN23.png",
+"collections": "Minimal"
+},
+{
+"name": "MN24",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN24.png",
+"collections": "Minimal"
+},
+{
+"name": "MN25",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN25.png",
+"collections": "Minimal"
+},
+{
+"name": "MN26",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN26.png",
+"collections": "Minimal"
+},
+{
+"name": "MN27",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN27.png",
+"collections": "Minimal"
+},
+{
+"name": "MN28",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN28.png",
+"collections": "Minimal"
+},
+{
+"name": "MN29",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN29.png",
+"collections": "Minimal"
+},
+{
+"name": "MN30",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN30.png",
+"collections": "Minimal"
+},
 
 
 { "_comment4": "Minimal Wallpapers End" },
@@ -319,6 +409,37 @@
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC15.png",
 "collections": "Scenary"
 },
+{
+"name": "SC16",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC16.png",
+"collections": "Scenary"
+},
+{
+"name": "SC17",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC17.png",
+"collections": "Scenary"
+},
+{
+"name": "SC18",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC18.png",
+"collections": "Scenary"
+},
+{
+"name": "SC19",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC19.png",
+"collections": "Scenary"
+},
+{
+"name": "SC20",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenary/SC20.png",
+"collections": "Scenary"
+},
+
 { "_comment5": "Scenary Wallpapers Start" },
 
 
@@ -383,6 +504,36 @@
 "name": "FL10",
 "author": "makescreens",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL10.png",
+"collections": "Floral"
+},
+{
+"name": "FL11",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL11.png",
+"collections": "Floral"
+},
+{
+"name": "FL12",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL12.png",
+"collections": "Floral"
+},
+{
+"name": "FL13",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL13.png",
+"collections": "Floral"
+},
+{
+"name": "FL14",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL14.png",
+"collections": "Floral"
+},
+{
+"name": "FL15",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL15.png",
 "collections": "Floral"
 },
 
