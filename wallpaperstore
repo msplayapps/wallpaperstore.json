@@ -459,6 +459,36 @@
 "collections": "Floral"
 },
 
+{
+"name": "FL16",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL16.png",
+"collections": "Floral"
+},
+{
+"name": "FL17",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL17.png",
+"collections": "Floral"
+},
+{
+"name": "FL18",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL18.png",
+"collections": "Floral"
+},
+{
+"name": "FL19",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL19.png",
+"collections": "Floral"
+},
+{
+"name": "FL20",
+"author": "makescreens",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL20.png",
+"collections": "Floral"
+},
 
 
 { "_comment6": "Floral Wallpapers End" }
