@@ -1,5 +1,158 @@
 [
 {
+"name": "SC40",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC40.png"
+},
+{
+"name": "SC39",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC39.png"
+},
+{
+"name": "SC38",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC38.png"
+},
+{
+"name": "SC37",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC37.png"
+},
+{
+"name": "SC36",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC36.png"
+},
+{
+"name": "SC35",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC35.png"
+},
+{
+"name": "SC34",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC34.png"
+},
+{
+"name": "SC33",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC33.png"
+},
+{
+"name": "SC32",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC32.png"
+},
+{
+"name": "SC31",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC31.png"
+},
+
+{
+"name": "MN50",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN50.png"
+},
+{
+"name": "MN49",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN49.png"
+},
+{
+"name": "MN48",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN48.png"
+},
+{
+"name": "MN47",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN47.png"
+},
+{
+"name": "MN46",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN46.png"
+},
+{
+"name": "MN45",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN45.png"
+},
+{
+"name": "MN44",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN44.png"
+},
+{
+"name": "MN43",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN43.png"
+},
+{
+"name": "MN42",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN42.png"
+},
+{
+"name": "MN41",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN41.png"
+},
+
+{
+"name": "IL50",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL50.png"
+},
+{
+"name": "IL49",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL49.png"
+},
+{
+"name": "IL48",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL48.png"
+},
+{
+"name": "IL47",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL47.png"
+},
+{
+"name": "IL46",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL46.png"
+},
+{
+"name": "IL45",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL45.png"
+},
+{
+"name": "IL44",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL44.png"
+},
+{
+"name": "IL43",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL43.png"
+},
+{
+"name": "IL42",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL42.png"
+},
+{
+"name": "IL41",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL41.png"
+},
+
+{
 "name": "FL30",
 "collections": "Floral",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL30.png"
