@@ -1,1358 +1,1562 @@
 [
-
-{
-"name": "CF20",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF20.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF20.png"
-},
-{
-"name": "CF19",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF19.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF19.png"
-},
-{
-"name": "CF18",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF18.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF18.png"
-},
-{
-"name": "CF17",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF17.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF17.png"
-},
-{
-"name": "CF16",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF16.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF16.png"
-},
-{
-"name": "CF15",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF15.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF15.png"
-},
-{
-"name": "CF14",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF14.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF14.png"
-},
-{
-"name": "CF13",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF13.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF13.png"
-},
-{
-"name": "CF12",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF12.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF12.png"
-},
-{
-"name": "CF11",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF11.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF11.png"
-},
-{
-"name": "CF10",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF10.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF10.png"
-},
-{
-"name": "CF09",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF09.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF09.png"
-},
-{
-"name": "CF08",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF08.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF08.png"
-},
-{
-"name": "CF07",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF07.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF07.png"
-},
-{
-"name": "CF06",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF06.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF06.png"
-},
-{
-"name": "CF05",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF05.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF05.png"
-},
-{
-"name": "CF04",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF04.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF04.png"
-},
-{
-"name": "CF03",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF03.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF03.png"
-},
-{
-"name": "CF02",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF02.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF02.png"
-},
-{
-"name": "CF01",
-"collections": "Colorful",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF01.png",
-"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF01.png"
-},
-
-
-{
-"name": "MN70",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN70.png"
-},
-{
-"name": "MN69",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN69.png"
-},
-{
-"name": "MN68",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN68.png"
-},
-{
-"name": "MN67",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN67.png"
-},
-{
-"name": "MN66",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN66.png"
-},
-{
-"name": "MN65",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN65.png"
-},
-{
-"name": "MN64",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN64.png"
-},
-{
-"name": "MN63",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN63.png"
-},
-{
-"name": "MN62",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN62.png"
-},
-{
-"name": "MN61",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN61.png"
-},
-
-{
-"name": "IL70",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL70.png"
-},
-{
-"name": "IL69",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL69.png"
-},
-{
-"name": "IL68",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL68.png"
-},
-{
-"name": "IL67",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL67.png"
-},
-{
-"name": "IL66",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL66.png"
-},
-{
-"name": "IL65",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL65.png"
-},
-{
-"name": "IL64",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL64.png"
-},
-{
-"name": "IL63",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL63.png"
-},
-{
-"name": "IL62",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL62.png"
-},
-{
-"name": "IL61",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL61.png"
-},
-
-{
-"name": "SC50",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC50.png"
-},
-{
-"name": "SC49",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC49.png"
-},
-{
-"name": "SC48",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC48.png"
-},
-{
-"name": "SC47",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC47.png"
-},
-{
-"name": "SC46",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC46.png"
-},
-{
-"name": "SC45",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC45.png"
-},
-{
-"name": "SC44",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC44.png"
-},
-{
-"name": "SC43",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC43.png"
-},
-{
-"name": "SC42",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC42.png"
-},
-{
-"name": "SC41",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC41.png"
-},
-
-{
-"name": "FL50",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL50.png"
-},
-{
-"name": "FL49",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL49.png"
-},
-{
-"name": "FL48",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL48.png"
-},
-{
-"name": "FL47",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL47.png"
-},
-{
-"name": "FL46",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL46.png"
-},
-{
-"name": "FL45",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL45.png"
-},
-{
-"name": "FL44",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL44.png"
-},
-{
-"name": "FL43",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL43.png"
-},
-{
-"name": "FL42",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL42.png"
-},
-{
-"name": "FL41",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL41.png"
-},
-
-{
-"name": "FL40",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL40.png"
-},
-{
-"name": "FL39",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL39.png"
-},
-{
-"name": "FL38",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL38.png"
-},
-{
-"name": "FL37",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL37.png"
-},
-{
-"name": "FL36",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL36.png"
-},
-{
-"name": "FL35",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL35.png"
-},
-{
-"name": "FL34",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL34.png"
-},
-{
-"name": "FL33",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL33.png"
-},
-{
-"name": "FL32",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL32.png"
-},
-{
-"name": "FL31",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL31.png"
-},
-
-{
-"name": "MN60",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN60.png"
-},
-{
-"name": "MN59",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN59.png"
-},
-{
-"name": "MN58",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN58.png"
-},
-{
-"name": "MN57",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN57.png"
-},
-{
-"name": "MN56",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN56.png"
-},
-{
-"name": "MN55",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN55.png"
-},
-{
-"name": "MN54",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN54.png"
-},
-{
-"name": "MN53",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN53.png"
-},
-{
-"name": "MN52",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN52.png"
-},
-{
-"name": "MN51",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN51.png"
-},
-
-{
-"name": "IL60",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL60.png"
-},
-{
-"name": "IL59",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL59.png"
-},
-{
-"name": "IL58",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL58.png"
-},
-{
-"name": "IL57",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL57.png"
-},
-{
-"name": "IL56",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL56.png"
-},
-{
-"name": "IL55",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL55.png"
-},
-{
-"name": "IL54",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL54.png"
-},
-{
-"name": "IL53",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL53.png"
-},
-{
-"name": "IL52",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL52.png"
-},
-{
-"name": "IL51",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL51.png"
-},
-
-{
-"name": "SC40",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC40.png"
-},
-{
-"name": "SC39",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC39.png"
-},
-{
-"name": "SC38",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC38.png"
-},
-{
-"name": "SC37",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC37.png"
-},
-{
-"name": "SC36",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC36.png"
-},
-{
-"name": "SC35",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC35.png"
-},
-{
-"name": "SC34",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC34.png"
-},
-{
-"name": "SC33",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC33.png"
-},
-{
-"name": "SC32",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC32.png"
-},
-{
-"name": "SC31",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC31.png"
-},
-
-{
-"name": "MN50",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN50.png"
-},
-{
-"name": "MN49",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN49.png"
-},
-{
-"name": "MN48",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN48.png"
-},
-{
-"name": "MN47",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN47.png"
-},
-{
-"name": "MN46",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN46.png"
-},
-{
-"name": "MN45",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN45.png"
-},
-{
-"name": "MN44",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN44.png"
-},
-{
-"name": "MN43",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN43.png"
-},
-{
-"name": "MN42",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN42.png"
-},
-{
-"name": "MN41",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN41.png"
-},
-
-{
-"name": "IL50",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL50.png"
-},
-{
-"name": "IL49",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL49.png"
-},
-{
-"name": "IL48",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL48.png"
-},
-{
-"name": "IL47",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL47.png"
-},
-{
-"name": "IL46",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL46.png"
-},
-{
-"name": "IL45",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL45.png"
-},
-{
-"name": "IL44",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL44.png"
-},
-{
-"name": "IL43",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL43.png"
-},
-{
-"name": "IL42",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL42.png"
-},
-{
-"name": "IL41",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL41.png"
-},
-
-{
-"name": "FL30",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL30.png"
-},
-{
-"name": "FL29",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL29.png"
-},
-{
-"name": "FL28",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL28.png"
-},
-{
-"name": "FL27",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL27.png"
-},
-{
-"name": "FL26",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL26.png"
-},
-{
-"name": "FL25",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL25.png"
-},
-{
-"name": "FL24",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL24.png"
-},
-{
-"name": "FL23",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL23.png"
-},
-{
-"name": "FL22",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL22.png"
-},
-{
-"name": "FL21",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL21.png"
-},
-
-{
-"name": "SC30",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC30.png"
-},
-{
-"name": "SC29",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC29.png"
-},
-{
-"name": "SC28",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC28.png"
-},
-{
-"name": "SC27",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC27.png"
-},
-{
-"name": "SC26",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC26.png"
-},
-{
-"name": "SC25",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC25.png"
-},
-{
-"name": "SC24",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC24.png"
-},
-{
-"name": "SC23",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC23.png"
-},
-{
-"name": "SC22",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC22.png"
-},
-{
-"name": "SC21",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC21.png"
-},
-
-{
-"name": "IL40",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL40.png"
-},
-{
-"name": "IL39",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL39.png"
-},
-{
-"name": "IL38",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL38.png"
-},
-{
-"name": "IL37",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL37.png"
-},
-{
-"name": "IL36",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL36.png"
-},
-{
-"name": "IL35",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL35.png"
-},
-{
-"name": "IL34",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL34.png"
-},
-{
-"name": "IL33",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL33.png"
-},
-{
-"name": "IL32",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL32.png"
-},
-{
-"name": "IL31",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL31.png"
-},
-
-{
-"name": "MN40",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN40.png"
-},
-{
-"name": "MN39",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN39.png"
-},
-{
-"name": "MN38",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN38.png"
-},
-{
-"name": "MN37",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN37.png"
-},
-{
-"name": "MN36",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN36.png"
-},
-{
-"name": "MN35",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN35.png"
-},
-{
-"name": "MN34",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN34.png"
-},
-{
-"name": "MN33",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN33.png"
-},
-{
-"name": "MN32",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN32.png"
-},
-{
-"name": "MN31",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN31.png"
-},
-
-{ "_comment8": "Illustration Wallpapers End" },
-{
-"name": "IL30",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL30.png"
-},
-{
-"name": "IL29",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL29.png"
-},
-{
-"name": "IL28",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL28.png"
-},
-{
-"name": "IL27",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL27.png"
-},
-{
-"name": "IL26",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL26.png"
-},
-{
-"name": "IL25",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL25.png"
-},
-{
-"name": "IL24",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL24.png"
-},
-{
-"name": "IL23",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL23.png"
-},
-{
-"name": "IL22",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL22.png"
-},
-{
-"name": "IL21",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL21.png"
-},
-{
-"name": "IL20",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL20.png"
-},
-{
-"name": "IL19",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL19.png"
-},
-{
-"name": "IL18",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL18.png"
-},
-{
-"name": "IL17",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL17.png"
-},
-{
-"name": "IL16",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL16.png"
-},
-{
-"name": "IL15",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL15.png"
-},
-{
-"name": "IL14",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL14.png"
-},
-{
-"name": "IL13",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL13.png"
-},
-{
-"name": "IL12",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL12.png"
-},
-{
-"name": "IL11",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL11.png"
-},
-{
-"name": "IL10",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL10.png"
-},
-{
-"name": "IL09",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL09.png"
-},
-{
-"name": "IL08",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL08.png"
-},
-{
-"name": "IL07",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL07.png"
-},
-{
-"name": "IL06",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL06.png"
-},
-{
-"name": "IL05",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL05.png"
-},
-{
-"name": "IL04",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL04.png"
-},
-{
-"name": "IL03",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL03.png"
-},
-{
-"name": "IL02",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL02.png"
-},
-{
-"name": "IL01",
-"collections": "Illustrations",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL01.png"
-},
-{ "_comment7": "Illustration Wallpapers Start" },
-
-
-
-
-{ "_comment6": "Minimal Wallpapers End" },
-{
-"name": "MN30",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN30.png"
-},
-{
-"name": "MN29",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN29.png"
-},
-{
-"name": "MN28",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN28.png"
-},
-{
-"name": "MN27",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN27.png"
-},
-{
-"name": "MN26",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN26.png"
-},
-{
-"name": "MN25",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN25.png"
-},
-{
-"name": "MN24",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN24.png"
-},
-{
-"name": "MN23",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN23.png"
-},
-{
-"name": "MN22",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN22.png"
-},
-{
-"name": "MN21",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN21.png"
-},
-{
-"name": "MN20",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN20.png"
-},
-{
-"name": "MN19",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN19.png"
-},
-{
-"name": "MN18",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN18.png"
-},
-{
-"name": "MN17",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN17.png"
-},
-{
-"name": "MN16",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN16.png"
-},
-{
-"name": "MN15",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN15.png"
-},
-{
-"name": "MN14",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN14.png"
-},
-{
-"name": "MN13",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN13.png"
-},
-{
-"name": "MN12",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN12.png"
-},
-{
-"name": "MN11",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN11.png"
-},
-{
-"name": "MN10",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN10.png"
-},
-{
-"name": "MN09",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN09.png"
-},
-{
-"name": "MN08",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN08.png"
-},
-{
-"name": "MN07",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN07.png"
-},
-{
-"name": "MN06",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN06.png"
-},
-{
-"name": "MN05",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN05.png"
-},
-{
-"name": "MN04",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN04.png"
-},
-{
-"name": "MN03",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN03.png"
-},
-{
-"name": "MN02",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN02.png"
-},
-{
-"name": "MN01",
-"collections": "Minimal",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN01.png"
-},
-{ "_comment5": "Minimal Wallpapers Start" },
-
-
-
-
-{ "_comment4": "Scenic Wallpapers End" },
-{
-"name": "SC20",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC20.png"
-},
-{
-"name": "SC19",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC19.png"
-},
-{
-"name": "SC18",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC18.png"
-},
-{
-"name": "SC17",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC17.png"
-},
-{
-"name": "SC16",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC16.png"
-},
-{
-"name": "SC15",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC15.png"
-},
-{
-"name": "SC14",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC14.png"
-},
-{
-"name": "SC13",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC13.png"
-},
-{
-"name": "SC12",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC12.png"
-},
-{
-"name": "SC11",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC11.png"
-},
-{
-"name": "SC10",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC10.png"
-},
-{
-"name": "SC09",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC09.png"
-},
-{
-"name": "SC08",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC08.png"
-},
-{
-"name": "SC07",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC07.png"
-},
-{
-"name": "SC06",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC06.png"
-},
-{
-"name": "SC05",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC05.png"
-},
-{
-"name": "SC04",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC04.png"
-},
-{
-"name": "SC03",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC03.png"
-},
-{
-"name": "SC02",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC02.png"
-},
-{
-"name": "SC01",
-"collections": "Scenic",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC01.png"
-},
-{ "_comment3": "Scenic Wallpapers Start" },
-
-
-
-{ "_comment2": "Floral Wallpapers End" },
-{
-"name": "FL20",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL20.png"
-},
-{
-"name": "FL19",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL19.png"
-},
-{
-"name": "FL18",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL18.png"
-},
-{
-"name": "FL17",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL17.png"
-},
-{
-"name": "FL16",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL16.png"
-},
-{
-"name": "FL15",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL15.png"
-},
-{
-"name": "FL14",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL14.png"
-},
-{
-"name": "FL13",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL13.png"
-},
-{
-"name": "FL12",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL12.png"
-},
-{
-"name": "FL11",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL11.png"
-},
-{
-"name": "FL10",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL10.png"
-},
-{
-"name": "FL09",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL09.png"
-},
-{
-"name": "FL08",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL08.png"
-},
-{
-"name": "FL07",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL07.png"
-},
-{
-"name": "FL06",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL06.png"
-},
-{
-"name": "FL05",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL05.png"
-},
-{
-"name": "FL04",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL04.png"
-},
-{
-"name": "FL03",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL03.png"
-},
-{
-"name": "FL02",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL02.png"
-},
-{
-"name": "FL01",
-"collections": "Floral",
-"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL01.png"
-},
-{ "_comment1": "Floral Wallpapers Start" }
+    {
+        "name": "CF20",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF20.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF20.png"
+    },
+    {
+        "name": "CF19",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF19.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF19.png"
+    },
+    {
+        "name": "CF18",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF18.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF18.png"
+    },
+    {
+        "name": "CF17",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF17.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF17.png"
+    },
+    {
+        "name": "CF16",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF16.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF16.png"
+    },
+    {
+        "name": "CF15",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF15.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF15.png"
+    },
+    {
+        "name": "CF14",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF14.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF14.png"
+    },
+    {
+        "name": "CF13",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF13.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF13.png"
+    },
+    {
+        "name": "CF12",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF12.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF12.png"
+    },
+    {
+        "name": "CF11",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF11.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF11.png"
+    },
+    {
+        "name": "CF10",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF10.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF10.png"
+    },
+    {
+        "name": "CF09",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF09.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF09.png"
+    },
+    {
+        "name": "CF08",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF08.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF08.png"
+    },
+    {
+        "name": "CF07",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF07.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF07.png"
+    },
+    {
+        "name": "CF06",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF06.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF06.png"
+    },
+    {
+        "name": "CF05",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF05.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF05.png"
+    },
+    {
+        "name": "CF04",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF04.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF04.png"
+    },
+    {
+        "name": "CF03",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF03.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF03.png"
+    },
+    {
+        "name": "CF02",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF02.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF02.png"
+    },
+    {
+        "name": "CF01",
+        "collections": "Colorful",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Colorful/CF01.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Colorful/CF01.png"
+    },
+    {
+        "name": "FL50",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL50.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL50.png"
+    },
+    {
+        "name": "FL49",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL49.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL49.png"
+    },
+    {
+        "name": "FL48",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL48.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL48.png"
+    },
+    {
+        "name": "FL47",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL47.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL47.png"
+    },
+    {
+        "name": "FL46",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL46.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL46.png"
+    },
+    {
+        "name": "FL45",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL45.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL45.png"
+    },
+    {
+        "name": "FL44",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL44.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL44.png"
+    },
+    {
+        "name": "FL43",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL43.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL43.png"
+    },
+    {
+        "name": "FL42",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL42.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL42.png"
+    },
+    {
+        "name": "FL41",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL41.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL41.png"
+    },
+    {
+        "name": "FL40",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL40.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL40.png"
+    },
+    {
+        "name": "FL39",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL39.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL39.png"
+    },
+    {
+        "name": "FL38",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL38.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL38.png"
+    },
+    {
+        "name": "FL37",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL37.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL37.png"
+    },
+    {
+        "name": "FL36",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL36.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL36.png"
+    },
+    {
+        "name": "FL35",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL35.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL35.png"
+    },
+    {
+        "name": "FL34",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL34.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL34.png"
+    },
+    {
+        "name": "FL33",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL33.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL33.png"
+    },
+    {
+        "name": "FL32",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL32.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL32.png"
+    },
+    {
+        "name": "FL31",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL31.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL31.png"
+    },
+    {
+        "name": "FL30",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL30.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL30.png"
+    },
+    {
+        "name": "FL29",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL29.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL29.png"
+    },
+    {
+        "name": "FL28",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL28.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL28.png"
+    },
+    {
+        "name": "FL27",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL27.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL27.png"
+    },
+    {
+        "name": "FL26",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL26.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL26.png"
+    },
+    {
+        "name": "FL25",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL25.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL25.png"
+    },
+    {
+        "name": "FL24",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL24.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL24.png"
+    },
+    {
+        "name": "FL23",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL23.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL23.png"
+    },
+    {
+        "name": "FL22",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL22.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL22.png"
+    },
+    {
+        "name": "FL21",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL21.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL21.png"
+    },
+    {
+        "name": "FL20",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL20.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL20.png"
+    },
+    {
+        "name": "FL19",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL19.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL19.png"
+    },
+    {
+        "name": "FL18",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL18.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL18.png"
+    },
+    {
+        "name": "FL17",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL17.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL17.png"
+    },
+    {
+        "name": "FL16",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL16.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL16.png"
+    },
+    {
+        "name": "FL15",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL15.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL15.png"
+    },
+    {
+        "name": "FL14",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL14.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL14.png"
+    },
+    {
+        "name": "FL13",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL13.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL13.png"
+    },
+    {
+        "name": "FL12",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL12.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL12.png"
+    },
+    {
+        "name": "FL11",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL11.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL11.png"
+    },
+    {
+        "name": "FL10",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL10.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL10.png"
+    },
+    {
+        "name": "FL09",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL09.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL09.png"
+    },
+    {
+        "name": "FL08",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL08.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL08.png"
+    },
+    {
+        "name": "FL07",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL07.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL07.png"
+    },
+    {
+        "name": "FL06",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL06.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL06.png"
+    },
+    {
+        "name": "FL05",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL05.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL05.png"
+    },
+    {
+        "name": "FL04",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL04.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL04.png"
+    },
+    {
+        "name": "FL03",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL03.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL03.png"
+    },
+    {
+        "name": "FL02",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL02.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL02.png"
+    },
+    {
+        "name": "FL01",
+        "collections": "Floral",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL01.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL01.png"
+    },
+    {
+        "name": "SC50",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC50.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC50.png"
+    },
+    {
+        "name": "SC49",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC49.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC49.png"
+    },
+    {
+        "name": "SC48",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC48.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC48.png"
+    },
+    {
+        "name": "SC47",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC47.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC47.png"
+    },
+    {
+        "name": "SC46",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC46.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC46.png"
+    },
+    {
+        "name": "SC45",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC45.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC45.png"
+    },
+    {
+        "name": "SC44",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC44.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC44.png"
+    },
+    {
+        "name": "SC43",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC43.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC43.png"
+    },
+    {
+        "name": "SC42",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC42.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC42.png"
+    },
+    {
+        "name": "SC41",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC41.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC41.png"
+    },
+    {
+        "name": "SC40",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC40.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC40.png"
+    },
+    {
+        "name": "SC39",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC39.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC39.png"
+    },
+    {
+        "name": "SC38",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC38.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC38.png"
+    },
+    {
+        "name": "SC37",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC37.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC37.png"
+    },
+    {
+        "name": "SC36",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC36.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC36.png"
+    },
+    {
+        "name": "SC35",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC35.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC35.png"
+    },
+    {
+        "name": "SC34",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC34.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC34.png"
+    },
+    {
+        "name": "SC33",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC33.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC33.png"
+    },
+    {
+        "name": "SC32",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC32.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC32.png"
+    },
+    {
+        "name": "SC31",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC31.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC31.png"
+    },
+    {
+        "name": "SC30",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC30.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC30.png"
+    },
+    {
+        "name": "SC29",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC29.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC29.png"
+    },
+    {
+        "name": "SC28",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC28.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC28.png"
+    },
+    {
+        "name": "SC27",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC27.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC27.png"
+    },
+    {
+        "name": "SC26",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC26.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC26.png"
+    },
+    {
+        "name": "SC25",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC25.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC25.png"
+    },
+    {
+        "name": "SC24",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC24.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC24.png"
+    },
+    {
+        "name": "SC23",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC23.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC23.png"
+    },
+    {
+        "name": "SC22",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC22.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC22.png"
+    },
+    {
+        "name": "SC21",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC21.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC21.png"
+    },
+    {
+        "name": "SC20",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC20.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC20.png"
+    },
+    {
+        "name": "SC19",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC19.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC19.png"
+    },
+    {
+        "name": "SC18",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC18.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC18.png"
+    },
+    {
+        "name": "SC17",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC17.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC17.png"
+    },
+    {
+        "name": "SC16",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC16.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC16.png"
+    },
+    {
+        "name": "SC15",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC15.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC15.png"
+    },
+    {
+        "name": "SC14",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC14.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC14.png"
+    },
+    {
+        "name": "SC13",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC13.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC13.png"
+    },
+    {
+        "name": "SC12",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC12.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC12.png"
+    },
+    {
+        "name": "SC11",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC11.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC11.png"
+    },
+    {
+        "name": "SC10",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC10.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC10.png"
+    },
+    {
+        "name": "SC09",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC09.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC09.png"
+    },
+    {
+        "name": "SC08",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC08.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC08.png"
+    },
+    {
+        "name": "SC07",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC07.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC07.png"
+    },
+    {
+        "name": "SC06",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC06.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC06.png"
+    },
+    {
+        "name": "SC05",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC05.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC05.png"
+    },
+    {
+        "name": "SC04",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC04.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC04.png"
+    },
+    {
+        "name": "SC03",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC03.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC03.png"
+    },
+    {
+        "name": "SC02",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC02.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC02.png"
+    },
+    {
+        "name": "SC01",
+        "collections": "Scenic",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC01.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC01.png"
+    },
+    {
+        "name": "MN70",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN70.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN70.png"
+    },
+    {
+        "name": "MN69",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN69.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN69.png"
+    },
+    {
+        "name": "MN68",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN68.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN68.png"
+    },
+    {
+        "name": "MN67",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN67.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN67.png"
+    },
+    {
+        "name": "MN66",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN66.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN66.png"
+    },
+    {
+        "name": "MN65",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN65.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN65.png"
+    },
+    {
+        "name": "MN64",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN64.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN64.png"
+    },
+    {
+        "name": "MN63",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN63.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN63.png"
+    },
+    {
+        "name": "MN62",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN62.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN62.png"
+    },
+    {
+        "name": "MN61",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN61.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN61.png"
+    },
+    {
+        "name": "MN60",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN60.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN60.png"
+    },
+    {
+        "name": "MN59",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN59.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN59.png"
+    },
+    {
+        "name": "MN58",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN58.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN58.png"
+    },
+    {
+        "name": "MN57",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN57.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN57.png"
+    },
+    {
+        "name": "MN56",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN56.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN56.png"
+    },
+    {
+        "name": "MN55",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN55.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN55.png"
+    },
+    {
+        "name": "MN54",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN54.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN54.png"
+    },
+    {
+        "name": "MN53",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN53.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN53.png"
+    },
+    {
+        "name": "MN52",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN52.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN52.png"
+    },
+    {
+        "name": "MN51",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN51.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN51.png"
+    },
+    {
+        "name": "MN50",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN50.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN50.png"
+    },
+    {
+        "name": "MN49",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN49.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN49.png"
+    },
+    {
+        "name": "MN48",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN48.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN48.png"
+    },
+    {
+        "name": "MN47",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN47.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN47.png"
+    },
+    {
+        "name": "MN46",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN46.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN46.png"
+    },
+    {
+        "name": "MN45",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN45.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN45.png"
+    },
+    {
+        "name": "MN44",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN44.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN44.png"
+    },
+    {
+        "name": "MN43",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN43.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN43.png"
+    },
+    {
+        "name": "MN42",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN42.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN42.png"
+    },
+    {
+        "name": "MN41",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN41.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN41.png"
+    },
+    {
+        "name": "MN40",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN40.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN40.png"
+    },
+    {
+        "name": "MN39",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN39.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN39.png"
+    },
+    {
+        "name": "MN38",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN38.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN38.png"
+    },
+    {
+        "name": "MN37",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN37.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN37.png"
+    },
+    {
+        "name": "MN36",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN36.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN36.png"
+    },
+    {
+        "name": "MN35",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN35.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN35.png"
+    },
+    {
+        "name": "MN34",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN34.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN34.png"
+    },
+    {
+        "name": "MN33",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN33.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN33.png"
+    },
+    {
+        "name": "MN32",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN32.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN32.png"
+    },
+    {
+        "name": "MN31",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN31.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN31.png"
+    },
+    {
+        "name": "MN30",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN30.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN30.png"
+    },
+    {
+        "name": "MN29",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN29.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN29.png"
+    },
+    {
+        "name": "MN28",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN28.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN28.png"
+    },
+    {
+        "name": "MN27",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN27.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN27.png"
+    },
+    {
+        "name": "MN26",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN26.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN26.png"
+    },
+    {
+        "name": "MN25",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN25.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN25.png"
+    },
+    {
+        "name": "MN24",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN24.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN24.png"
+    },
+    {
+        "name": "MN23",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN23.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN23.png"
+    },
+    {
+        "name": "MN22",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN22.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN22.png"
+    },
+    {
+        "name": "MN21",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN21.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN21.png"
+    },
+    {
+        "name": "MN20",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN20.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN20.png"
+    },
+    {
+        "name": "MN19",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN19.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN19.png"
+    },
+    {
+        "name": "MN18",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN18.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN18.png"
+    },
+    {
+        "name": "MN17",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN17.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN17.png"
+    },
+    {
+        "name": "MN16",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN16.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN16.png"
+    },
+    {
+        "name": "MN15",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN15.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN15.png"
+    },
+    {
+        "name": "MN14",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN14.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN14.png"
+    },
+    {
+        "name": "MN13",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN13.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN13.png"
+    },
+    {
+        "name": "MN12",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN12.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN12.png"
+    },
+    {
+        "name": "MN11",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN11.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN11.png"
+    },
+    {
+        "name": "MN10",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN10.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN10.png"
+    },
+    {
+        "name": "MN09",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN09.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN09.png"
+    },
+    {
+        "name": "MN08",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN08.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN08.png"
+    },
+    {
+        "name": "MN07",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN07.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN07.png"
+    },
+    {
+        "name": "MN06",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN06.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN06.png"
+    },
+    {
+        "name": "MN05",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN05.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN05.png"
+    },
+    {
+        "name": "MN04",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN04.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN04.png"
+    },
+    {
+        "name": "MN03",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN03.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN03.png"
+    },
+    {
+        "name": "MN02",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN02.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN02.png"
+    },
+    {
+        "name": "MN01",
+        "collections": "Minimal",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN01.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN01.png"
+    },
+    {
+        "name": "IL70",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL70.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL70.png"
+    },
+    {
+        "name": "IL69",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL69.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL69.png"
+    },
+    {
+        "name": "IL68",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL68.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL68.png"
+    },
+    {
+        "name": "IL67",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL67.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL67.png"
+    },
+    {
+        "name": "IL66",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL66.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL66.png"
+    },
+    {
+        "name": "IL65",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL65.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL65.png"
+    },
+    {
+        "name": "IL64",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL64.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL64.png"
+    },
+    {
+        "name": "IL63",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL63.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL63.png"
+    },
+    {
+        "name": "IL62",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL62.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL62.png"
+    },
+    {
+        "name": "IL61",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL61.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL61.png"
+    },
+    {
+        "name": "IL60",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL60.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL60.png"
+    },
+    {
+        "name": "IL59",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL59.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL59.png"
+    },
+    {
+        "name": "IL58",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL58.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL58.png"
+    },
+    {
+        "name": "IL57",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL57.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL57.png"
+    },
+    {
+        "name": "IL56",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL56.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL56.png"
+    },
+    {
+        "name": "IL55",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL55.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL55.png"
+    },
+    {
+        "name": "IL54",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL54.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL54.png"
+    },
+    {
+        "name": "IL53",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL53.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL53.png"
+    },
+    {
+        "name": "IL52",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL52.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL52.png"
+    },
+    {
+        "name": "IL51",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL51.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL51.png"
+    },
+    {
+        "name": "IL50",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL50.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL50.png"
+    },
+    {
+        "name": "IL49",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL49.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL49.png"
+    },
+    {
+        "name": "IL48",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL48.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL48.png"
+    },
+    {
+        "name": "IL47",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL47.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL47.png"
+    },
+    {
+        "name": "IL46",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL46.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL46.png"
+    },
+    {
+        "name": "IL45",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL45.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL45.png"
+    },
+    {
+        "name": "IL44",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL44.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL44.png"
+    },
+    {
+        "name": "IL43",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL43.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL43.png"
+    },
+    {
+        "name": "IL42",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL42.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL42.png"
+    },
+    {
+        "name": "IL41",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL41.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL41.png"
+    },
+    {
+        "name": "IL40",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL40.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL40.png"
+    },
+    {
+        "name": "IL39",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL39.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL39.png"
+    },
+    {
+        "name": "IL38",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL38.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL38.png"
+    },
+    {
+        "name": "IL37",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL37.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL37.png"
+    },
+    {
+        "name": "IL36",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL36.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL36.png"
+    },
+    {
+        "name": "IL35",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL35.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL35.png"
+    },
+    {
+        "name": "IL34",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL34.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL34.png"
+    },
+    {
+        "name": "IL33",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL33.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL33.png"
+    },
+    {
+        "name": "IL32",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL32.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL32.png"
+    },
+    {
+        "name": "IL31",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL31.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL31.png"
+    },
+    {
+        "name": "IL30",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL30.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL30.png"
+    },
+    {
+        "name": "IL29",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL29.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL29.png"
+    },
+    {
+        "name": "IL28",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL28.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL28.png"
+    },
+    {
+        "name": "IL27",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL27.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL27.png"
+    },
+    {
+        "name": "IL26",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL26.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL26.png"
+    },
+    {
+        "name": "IL25",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL25.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL25.png"
+    },
+    {
+        "name": "IL24",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL24.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL24.png"
+    },
+    {
+        "name": "IL23",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL23.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL23.png"
+    },
+    {
+        "name": "IL22",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL22.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL22.png"
+    },
+    {
+        "name": "IL21",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL21.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL21.png"
+    },
+    {
+        "name": "IL20",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL20.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL20.png"
+    },
+    {
+        "name": "IL19",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL19.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL19.png"
+    },
+    {
+        "name": "IL18",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL18.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL18.png"
+    },
+    {
+        "name": "IL17",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL17.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL17.png"
+    },
+    {
+        "name": "IL16",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL16.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL16.png"
+    },
+    {
+        "name": "IL15",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL15.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL15.png"
+    },
+    {
+        "name": "IL14",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL14.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL14.png"
+    },
+    {
+        "name": "IL13",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL13.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL13.png"
+    },
+    {
+        "name": "IL12",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL12.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL12.png"
+    },
+    {
+        "name": "IL11",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL11.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL11.png"
+    },
+    {
+        "name": "IL10",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL10.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL10.png"
+    },
+    {
+        "name": "IL09",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL09.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL09.png"
+    },
+    {
+        "name": "IL08",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL08.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL08.png"
+    },
+    {
+        "name": "IL07",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL07.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL07.png"
+    },
+    {
+        "name": "IL06",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL06.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL06.png"
+    },
+    {
+        "name": "IL05",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL05.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL05.png"
+    },
+    {
+        "name": "IL04",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL04.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL04.png"
+    },
+    {
+        "name": "IL03",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL03.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL03.png"
+    },
+    {
+        "name": "IL02",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL02.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL02.png"
+    },
+    {
+        "name": "IL01",
+        "collections": "Illustrations",
+        "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL01.png",
+        "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL01.png"
+    }
 ]
