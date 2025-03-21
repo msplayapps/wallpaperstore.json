@@ -1,5 +1,68 @@
 [
 {
+"name": "SC60",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC60.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC60.png"
+},
+{
+"name": "SC59",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC59.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC59.png"
+},
+{
+"name": "SC58",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC58.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC58.png"
+},
+{
+"name": "SC57",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC57.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC57.png"
+},
+{
+"name": "SC56",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC56.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC56.png"
+},
+{
+"name": "SC55",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC55.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC55.png"
+},
+{
+"name": "SC54",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC54.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC54.png"
+},
+{
+"name": "SC53",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC53.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC53.png"
+},
+{
+"name": "SC52",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC52.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC52.png"
+},
+{
+"name": "SC51",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC51.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC51.png"
+},
+
+
+
+{
 "name": "IL80",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL80.png",
