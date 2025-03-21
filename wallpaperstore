@@ -1682,5 +1682,11 @@
         "collections": "Illustrations",
         "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL01.png",
         "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL01.png"
+    },
+{
+        "name": "0",
+        "collections": "A",
+        "url": "",
+        "thumbnail": ""
     }
 ]
