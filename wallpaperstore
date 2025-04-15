@@ -59,6 +59,48 @@
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL101.png",
 "thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL101.png"
 },
+{
+"name": "FL72",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL72.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL72.png"
+},
+{
+"name": "FL71",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL71.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL71.png"
+},
+{
+"name": "FL70",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL70.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL70.png"
+},
+{
+"name": "FL69",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL69.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL69.png"
+},
+{
+"name": "FL68",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL68.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL68.png"
+},
+{
+"name": "FL67",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL67.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL67.png"
+},
+{
+"name": "FL66",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL66.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL66.png"
+},
 
 {
 "name": "IL100",
