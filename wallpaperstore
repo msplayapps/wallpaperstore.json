@@ -1,5 +1,127 @@
 [
 {
+"name": "ES20",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES20.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES20.png"
+},
+{
+"name": "ES19",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES19.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES19.png"
+},
+{
+"name": "ES18",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES18.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES18.png"
+},
+{
+"name": "ES17",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES17.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES17.png"
+},
+{
+"name": "ES16",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES16.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES16.png"
+},
+{
+"name": "ES15",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES15.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES15.png"
+},
+{
+"name": "ES14",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES14.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES14.png"
+},
+{
+"name": "ES13",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES13.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES13.png"
+},
+{
+"name": "ES12",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES12.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES12.png"
+},
+{
+"name": "ES11",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES11.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES11.png"
+},
+{
+"name": "ES10",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES10.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES10.png"
+},
+{
+"name": "ES09",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES09.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES09.png"
+},
+{
+"name": "ES08",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES08.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES08.png"
+},
+{
+"name": "ES07",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES07.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES07.png"
+},
+{
+"name": "ES06",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES06.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES06.png"
+},
+{
+"name": "ES05",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES05.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES05.png"
+},
+{
+"name": "ES04",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES04.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES04.png"
+},
+{
+"name": "ES03",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES03.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES03.png"
+},
+{
+"name": "ES02",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES02.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES02.png"
+},
+{
+"name": "ES01",
+"collections": "Easter",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Easter/ES01.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Easter/ES01.png"
+},
+
+
+{
 "name": "IL110",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL110.png",
