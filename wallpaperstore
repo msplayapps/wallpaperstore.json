@@ -1,5 +1,66 @@
 [
 {
+"name": "NT30",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT30.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT30.png"
+},
+{
+"name": "NT29",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT29.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT29.png"
+},
+{
+"name": "NT28",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT28.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT28.png"
+},
+{
+"name": "NT27",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT27.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT27.png"
+},
+{
+"name": "NT26",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT26.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT26.png"
+},
+{
+"name": "NT25",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT25.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT25.png"
+},
+{
+"name": "NT24",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT24.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT24.png"
+},
+{
+"name": "NT23",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT23.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT23.png"
+},
+{
+"name": "NT22",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT22.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT22.png"
+},
+{
+"name": "NT21",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT21.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT21.png"
+},
+
+{
 "name": "MN82",
 "collections": "Minimal",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN82.png",
