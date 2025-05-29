@@ -1,5 +1,48 @@
 [
 {
+"name": "FL87",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL87.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL87.png"
+},
+{
+"name": "FL86",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL86.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL86.png"
+},
+{
+"name": "FL85",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL85.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL85.png"
+},
+{
+"name": "FL84",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL84.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL84.png"
+},
+{
+"name": "FL83",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL83.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL83.png"
+},
+{
+"name": "FL82",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL82.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL82.png"
+},
+{
+"name": "FL81",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL81.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL81.png"
+},
+
+{
 "name": "NT30",
 "collections": "Nature",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT30.png",
