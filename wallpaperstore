@@ -1,5 +1,66 @@
 [
 {
+"name": "WA10",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA10.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA10.png"
+},
+{
+"name": "WA09",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA09.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA09.png"
+},
+{
+"name": "WA08",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA08.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA08.png"
+},
+{
+"name": "WA07",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA07.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA07.png"
+},
+{
+"name": "WA06",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA06.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA06.png"
+},
+{
+"name": "WA05",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA05.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA05.png"
+},
+{
+"name": "WA04",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA04.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA04.png"
+},
+{
+"name": "WA03",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA03.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA03.png"
+},
+{
+"name": "WA02",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA02.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA02.png"
+},
+{
+"name": "WA01",
+"collections": "Watercolor",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Watercolor/WA01.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Watercolor/WA01.png"
+},
+
+{
 "name": "NT35",
 "collections": "Nature",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT35.png",
