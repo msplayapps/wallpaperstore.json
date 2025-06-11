@@ -1,5 +1,66 @@
 [
 {
+"name": "CS10",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS10.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS10.png"
+},
+{
+"name": "CS09",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS09.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS09.png"
+},
+{
+"name": "CS08",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS08.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS08.png"
+},
+{
+"name": "CS07",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS07.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS07.png"
+},
+{
+"name": "CS06",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS06.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS06.png"
+},
+{
+"name": "CS05",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS05.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS05.png"
+},
+{
+"name": "CS04",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS04.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS04.png"
+},
+{
+"name": "CS03",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS03.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS03.png"
+},
+{
+"name": "CS02",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS02.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS02.png"
+},
+{
+"name": "CS01",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS01.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS01.png"
+},
+
+{
 "name": "IL140",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL140.png",
