@@ -1,5 +1,36 @@
 [
 {
+"name": "IL145",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL145.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL145.png"
+},
+{
+"name": "IL144",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL144.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL144.png"
+},
+{
+"name": "IL143",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL143.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL143.png"
+},
+{
+"name": "IL142",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL142.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL142.png"
+},
+{
+"name": "IL141",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL141.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL141.png"
+},
+
+{
 "name": "CS10",
 "collections": "Countryside",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS10.png",
