@@ -1,5 +1,66 @@
 [
 {
+"name": "LA10",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA10.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA10.png"
+},
+{
+"name": "LA09",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA09.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA09.png"
+},
+{
+"name": "LA08",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA08.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA08.png"
+},
+{
+"name": "LA07",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA07.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA07.png"
+},
+{
+"name": "LA06",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA06.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA06.png"
+},
+{
+"name": "LA05",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA05.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA05.png"
+},
+{
+"name": "LA04",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA04.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA04.png"
+},
+{
+"name": "LA03",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA03.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA03.png"
+},
+{
+"name": "LA02",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA02.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA02.png"
+},
+{
+"name": "LA01",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA01.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA01.png"
+},
+
+{
 "name": "SC80",
 "collections": "Scenic",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC80.png",
