@@ -1,5 +1,36 @@
 [
 {
+"name": "MN87",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN87.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN87.png"
+},
+{
+"name": "MN86",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN86.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN86.png"
+},
+{
+"name": "MN85",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN85.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN85.png"
+},
+{
+"name": "MN84",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN84.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN84.png"
+},
+{
+"name": "MN83",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN83.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN83.png"
+},
+
+{
 "name": "LA10",
 "collections": "Line Art",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA10.png",
