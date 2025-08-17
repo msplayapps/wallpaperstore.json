@@ -1,5 +1,61 @@
 [
 {
+"name": "CO10",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO10.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO10.png"
+},
+{
+"name": "CO09",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO09.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO09.png"
+},
+{
+"name": "CO08",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO08.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO08.png"
+},
+{
+"name": "CO07",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO07.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO07.png"
+},
+
+{
+"name": "SC85",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC85.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC85.png"
+},
+{
+"name": "SC84",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC84.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC84.png"
+},
+{
+"name": "SC83",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC83.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC83.png"
+},
+{
+"name": "SC82",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC82.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC82.png"
+},
+{
+"name": "SC81",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC81.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC81.png"
+},
+
+{
 "name": "CO06",
 "collections": "Comic Style",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO06.png",
