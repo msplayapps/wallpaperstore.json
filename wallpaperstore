@@ -1,5 +1,55 @@
 [
 {
+"name": "LA15",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA15.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA15.png"
+},
+{
+"name": "LA14",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA14.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA14.png"
+},
+{
+"name": "LA13",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA13.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA13.png"
+},
+{
+"name": "LA12",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA12.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA12.png"
+},
+{
+"name": "LA11",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA11.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA11.png"
+},
+
+{
+"name": "NT43",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT43.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT43.png"
+},
+{
+"name": "NT42",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT42.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT42.png"
+},
+{
+"name": "NT41",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT41.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT41.png"
+},
+
+{
 "name": "IL160",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL160.png",
