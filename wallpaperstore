@@ -1,5 +1,30 @@
 [
 {
+"name": "FL94",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL94.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL94.png"
+},
+{
+"name": "FL93",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL93.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL93.png"
+},
+{
+"name": "FL92",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL92.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL92.png"
+},
+{
+"name": "FL91",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL91.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL91.png"
+},
+
+{
 "name": "CO14",
 "collections": "Comic Style",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO14.png",
