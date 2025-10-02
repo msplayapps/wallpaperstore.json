@@ -1,5 +1,42 @@
 [
 {
+"name": "SF06",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF06.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF06.png"
+},
+{
+"name": "SF05",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF05.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF05.png"
+},
+{
+"name": "SF04",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF04.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF04.png"
+},
+{
+"name": "SF03",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF03.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF03.png"
+},
+{
+"name": "SF02",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF02.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF02.png"
+},
+{
+"name": "SF01",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF01.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF01.png"
+},
+
+{
 "name": "FL94",
 "collections": "Floral",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL94.png",
