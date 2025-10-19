@@ -1,5 +1,66 @@
 [
 {
+"name": "FT10",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT10.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT10.png"
+},
+{
+"name": "FT09",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT09.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT09.png"
+},
+{
+"name": "FT08",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT08.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT08.png"
+},
+{
+"name": "FT07",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT07.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT07.png"
+},
+{
+"name": "FT06",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT06.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT06.png"
+},
+{
+"name": "FT05",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT05.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT05.png"
+},
+{
+"name": "FT04",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT04.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT04.png"
+},
+{
+"name": "FT03",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT03.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT03.png"
+},
+{
+"name": "FT02",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT02.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT02.png"
+},
+{
+"name": "FT01",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT01.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT01.png"
+},
+
+{
 "name": "MN91",
 "collections": "Minimal",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN91.png",
