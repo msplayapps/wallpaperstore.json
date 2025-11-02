@@ -1,5 +1,30 @@
 [
 {
+"name": "CO18",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO18.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO18.png"
+},
+{
+"name": "CO17",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO17.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO17.png"
+},
+{
+"name": "CO16",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO16.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO16.png"
+},
+{
+"name": "CO15",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO15.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO15.png"
+},
+
+{
 "name": "IL164",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL164.png",
