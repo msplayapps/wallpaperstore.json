@@ -1,5 +1,30 @@
 [
 {
+"name": "SF10",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF10.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF10.png"
+},
+{
+"name": "SF09",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF09.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF09.png"
+},
+{
+"name": "SF08",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF08.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF08.png"
+},
+{
+"name": "SF07",
+"collections": "Snow Flare",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Snowflare/SF07.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Snowflare/SF07.png"
+},
+
+{
 "name": "CO18",
 "collections": "Comic Style",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO18.png",
