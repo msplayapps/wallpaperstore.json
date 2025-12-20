@@ -1,5 +1,54 @@
 [
 {
+"name": "HS08",
+"collections": "Holiday Sparkle",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Holiday Sparkle/HS08.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Holiday Sparkle/HS08.png"
+},
+{
+"name": "HS07",
+"collections": "Holiday Sparkle",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Holiday Sparkle/HS07.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Holiday Sparkle/HS07.png"
+},
+{
+"name": "HS06",
+"collections": "Holiday Sparkle",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Holiday Sparkle/HS06.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Holiday Sparkle/HS06.png"
+},
+{
+"name": "HS05",
+"collections": "Holiday Sparkle",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Holiday Sparkle/HS05.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Holiday Sparkle/HS05.png"
+},
+{
+"name": "HS04",
+"collections": "Holiday Sparkle",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Holiday Sparkle/HS04.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Holiday Sparkle/HS04.png"
+},
+{
+"name": "HS03",
+"collections": "Holiday Sparkle",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Holiday Sparkle/HS03.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Holiday Sparkle/HS03.png"
+},
+{
+"name": "HS02",
+"collections": "Holiday Sparkle",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Holiday Sparkle/HS02.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Holiday Sparkle/HS02.png"
+},
+{
+"name": "HS01",
+"collections": "Holiday Sparkle",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Holiday Sparkle/HS01.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Holiday Sparkle/HS01.png"
+},
+
+{
 "name": "MN93",
 "collections": "Minimal",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN93.png",
