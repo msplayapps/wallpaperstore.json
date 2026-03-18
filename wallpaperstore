@@ -1,5 +1,55 @@
 [
 {
+"name": "CS14",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS14.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS14.png"
+},
+{
+"name": "CS13",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS13.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS13.png"
+},
+{
+"name": "CS12",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS12.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS12.png"
+},
+{
+"name": "CS11",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS11.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS11.png"
+},
+
+{
+"name": "LA24",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA24.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA24.png"
+},
+{
+"name": "LA23",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA23.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA23.png"
+},
+{
+"name": "LA22",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA22.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA22.png"
+},
+{
+"name": "LA21",
+"collections": "Line Art",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Lineart/LA21.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Lineart/LA21.png"
+},
+
+{
 "name": "SC90",
 "collections": "Scenic",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC90.png",
