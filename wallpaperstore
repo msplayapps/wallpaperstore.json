@@ -1,5 +1,48 @@
 [
 {
+"name": "MN100",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN100.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN100.png"
+},
+{
+"name": "MN99",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN99.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN99.png"
+},
+{
+"name": "MN98",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN98.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN98.png"
+},
+{
+"name": "MN97",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN97.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN97.png"
+},
+{
+"name": "MN96",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN96.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN96.png"
+},
+{
+"name": "MN95",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN95.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN95.png"
+},
+{
+"name": "MN94",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN94.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN94.png"
+},
+
+{
 "name": "CS14",
 "collections": "Countryside",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS14.png",
