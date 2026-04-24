@@ -1,5 +1,30 @@
 [
 {
+"name": "MN104",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN104.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN104.png"
+},
+{
+"name": "MN103",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN103.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN103.png"
+},
+{
+"name": "MN102",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN102.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN102.png"
+},
+{
+"name": "MN101",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN101.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN101.png"
+},
+
+{
 "name": "IL176",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL176.png",
