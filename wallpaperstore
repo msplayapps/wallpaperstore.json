@@ -1,5 +1,30 @@
 [
 {
+"name": "CS18",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS18.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS18.png"
+},
+{
+"name": "CS17",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS17.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS17.png"
+},
+{
+"name": "CS16",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS16.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS16.png"
+},
+{
+"name": "CS15",
+"collections": "Countryside",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Countryside/CS15.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Countryside/CS15.png"
+},
+
+{
 "name": "NT54",
 "collections": "Nature",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT54.png",
