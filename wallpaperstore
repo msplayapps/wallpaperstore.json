@@ -1,5 +1,30 @@
 [
 {
+"name": "CO24",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO24.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO24.png"
+},
+{
+"name": "CO23",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO23.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO23.png"
+},
+{
+"name": "CO22",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO22.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO22.png"
+},
+{
+"name": "CO21",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO21.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO21.png"
+},
+
+{
 "name": "MN106",
 "collections": "Minimal",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN106.png",
