@@ -1,5 +1,30 @@
 [
 {
+"name": "SC94",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC94.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC94.png"
+},
+{
+"name": "SC93",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC93.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC93.png"
+},
+{
+"name": "SC92",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC92.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC92.png"
+},
+{
+"name": "SC91",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC91.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC91.png"
+},
+
+{
 "name": "IL188",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL188.png",
