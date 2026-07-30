@@ -1,5 +1,30 @@
 [
 {
+"name": "CO28",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO28.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO28.png"
+},
+{
+"name": "CO27",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO27.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO27.png"
+},
+{
+"name": "CO26",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO26.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO26.png"
+},
+{
+"name": "CO25",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO25.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO25.png"
+},
+
+{
 "name": "SC94",
 "collections": "Scenic",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC94.png",
