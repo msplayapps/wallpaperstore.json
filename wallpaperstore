@@ -1,5 +1,31 @@
 [
 {
+"name": "IL190",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL190.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL190.png"
+},
+{
+"name": "IL189",
+"collections": "Illustrations",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL189.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Illustrations/IL189.png"
+},
+
+{
+"name": "FL102",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL102.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL102.png"
+},
+{
+"name": "FL101",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL101.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL101.png"
+},
+
+{
 "name": "CO28",
 "collections": "Comic Style",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO28.png",
