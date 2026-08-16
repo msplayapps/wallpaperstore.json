@@ -1,5 +1,30 @@
 [
 {
+"name": "NT58",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT58.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT58.png"
+},
+{
+"name": "NT57",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT57.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT57.png"
+},
+{
+"name": "NT56",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT56.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT56.png"
+},
+{
+"name": "NT55",
+"collections": "Nature",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT55.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Nature/NT55.png"
+},
+
+{
 "name": "IL190",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL190.png",
