@@ -1,5 +1,17 @@
 [
 {
+"name": "MN110",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN110.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN110.png"
+},
+{
+"name": "MN109",
+"collections": "Minimal",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Minimal/MN109.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Minimal/MN109.png"
+},
+{
 "name": "NT58",
 "collections": "Nature",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT58.png",
