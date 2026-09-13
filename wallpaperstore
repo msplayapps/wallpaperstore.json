@@ -1,5 +1,17 @@
 [
 {
+"name": "FL104",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL104.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL104.png"
+},
+{
+"name": "FL103",
+"collections": "Floral",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Floral/FL103.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Floral/FL103.png"
+},
+{
 "name": "IL194",
 "collections": "Illustrations",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Illustrations/IL194.png",
