@@ -1,5 +1,29 @@
 [
 {
+"name": "CO30",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO30.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO30.png"
+},
+{
+"name": "CO29",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO29.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO29.png"
+},
+{
+"name": "SC96",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC96.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC96.png"
+},
+{
+"name": "SC95",
+"collections": "Scenic",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Scenic/SC95.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Scenic/SC95.png"
+},
+{
 "name": "NT60",
 "collections": "Nature",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Nature/NT60.png",
