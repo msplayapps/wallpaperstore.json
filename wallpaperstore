@@ -1,5 +1,17 @@
 [
 {
+"name": "CO32",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO32.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO32.png"
+},
+{
+"name": "CO31",
+"collections": "Comic Style",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO31.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Comic Style/CO31.png"
+},
+{
 "name": "FT17",
 "collections": "Festive",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT17.png",
