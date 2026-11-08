@@ -1,5 +1,24 @@
 [
 {
+"name": "FT20",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT20.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT20.png"
+},
+{
+"name": "FT19",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT19.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT19.png"
+},
+{
+"name": "FT18",
+"collections": "Festive",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT18.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Festive/FT18.png"
+},
+
+{
 "name": "CO32",
 "collections": "Comic Style",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Comic Style/CO32.png",
