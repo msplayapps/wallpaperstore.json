@@ -1,5 +1,17 @@
 [
 {
+"name": "BN01",
+"collections": "Other",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Banners/BN01.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Banners/BN01.png"
+},
+{
+"name": "BN02",
+"collections": "Other",
+"url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Banners/BN02.png",
+"thumbnail": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Thumbnails/Banners/BN02.png"
+},
+{
 "name": "FT20",
 "collections": "Festive",
 "url": "https://raw.githubusercontent.com/msplayapps/wallpaperstore.json/main/Festive/FT20.png",
